@@ -114,9 +114,9 @@
               "color": "#000",
               "float": "left",
               "font-family": "Abril fatface",
-              "font-size": "125px",
+              "font-size": "129px",
               "line-height": "70px",
-              "padding-top": "12px",
+              "padding-top": "15px",
               "padding-right": "7px",
               "padding-left": "0px"
             }
@@ -231,9 +231,9 @@
               "color": "#000",
               "float": "left",
               "font-family": "Abril fatface",
-              "font-size": "125px",
+              "font-size": "129px",
               "line-height": "70px",
-              "padding-top": "12px",
+              "padding-top": "15px",
               "padding-right": "7px",
               "padding-left": "0px"
             }
@@ -790,9 +790,9 @@
               "color": "#000",
               "float": "left",
               "font-family": "Abril fatface",
-              "font-size": "125px",
+              "font-size": "129px",
               "line-height": "70px",
-              "padding-top": "12px",
+              "padding-top": "15px",
               "padding-right": "7px",
               "padding-left": "0px"
             }
